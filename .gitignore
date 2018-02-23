@@ -1,0 +1,4 @@
+platformio.ini
+*.sublime*
+.DS_Store
+.pioenvs/
